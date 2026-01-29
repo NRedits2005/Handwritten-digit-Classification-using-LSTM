@@ -1,4 +1,3 @@
-
 # MNIST Digit Classification using LSTM (TensorFlow / Keras)
 
 This project demonstrates how a **Long Short-Term Memory (LSTM)** neural network can be applied to the **MNIST handwritten digit dataset** using **TensorFlow and Keras**.  
